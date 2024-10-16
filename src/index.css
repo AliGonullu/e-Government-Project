@@ -1,0 +1,13 @@
+.box {
+  border: 2px solid black;
+  text-align: center;
+  background-color: white;
+  padding: 25px;
+}
+
+.ColorPicker {
+  position: relative;
+  left: 50px;
+  width: 90px;
+  height: 40px;
+}
