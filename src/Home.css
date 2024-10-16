@@ -1,0 +1,28 @@
+.homeheader{
+    color: red;
+}
+
+
+.carousel-container {
+    width: 75%; /* 3/4 of the full width */
+    margin: 0 auto; /* Center the carousel */
+}
+
+.carousel-caption h3 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.carousel-caption p {
+    font-size: 1.25rem;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 400px; /* Set a fixed height for the carousel */
+    object-fit: cover; /* Ensure the image covers the area without stretching */
+}
+
+#infopar{
+    font-size: 20px;
+}
